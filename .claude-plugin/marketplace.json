@@ -1,0 +1,5 @@
+{
+  "name": "cosmic-moods",
+  "owner": { "name": "aadityaforwork" },
+  "plugins": [{ "name": "cosmic-moods", "source": "./" }]
+}

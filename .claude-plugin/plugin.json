@@ -1,0 +1,1 @@
+{ "name": "cosmic-moods", "version": "0.1.0", "description": "A deep-space theme whose nebula shifts color and motion with what Claude is doing", "license": "MIT", "types": "./types/index.d.ts" }
